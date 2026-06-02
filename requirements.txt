@@ -1,0 +1,10 @@
+streamlit>=1.34
+pandas>=2.1
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.1
+python-dotenv>=1.0
+pydantic>=2.6
+
+# NRE layer (project-local) needs an OpenAI-protocol client for OpenRouter:
+openai>=1.30

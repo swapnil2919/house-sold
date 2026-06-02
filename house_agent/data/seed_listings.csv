@@ -1,0 +1,73 @@
+listing_id,city,locality,bhk,property_type,area_sqft,price_inr,price_per_sqft_inr,status,builder,posted_on,url
+L0001,Mumbai,Andheri West,2,Apartment,950,21000000,22105,Ready to Move,Lodha,2026-04-12,https://example.com/L0001
+L0002,Mumbai,Andheri West,3,Apartment,1450,33000000,22759,Ready to Move,Oberoi,2026-04-15,https://example.com/L0002
+L0003,Mumbai,Bandra West,2,Apartment,1100,42000000,38182,Ready to Move,Rustomjee,2026-04-09,https://example.com/L0003
+L0004,Mumbai,Powai,3,Apartment,1380,28500000,20652,Ready to Move,Hiranandani,2026-04-18,https://example.com/L0004
+L0005,Mumbai,Goregaon East,2,Apartment,890,16500000,18539,Ready to Move,Oberoi,2026-04-22,https://example.com/L0005
+L0006,Mumbai,Thane West,2,Apartment,920,11500000,12500,Ready to Move,Lodha,2026-04-25,https://example.com/L0006
+L0007,Mumbai,Thane West,3,Apartment,1320,17500000,13258,Ready to Move,Kalpataru,2026-04-28,https://example.com/L0007
+L0008,Mumbai,Mulund West,2,Apartment,960,15000000,15625,Ready to Move,Nirmal,2026-05-01,https://example.com/L0008
+L0009,Mumbai,Chembur,3,Apartment,1280,24000000,18750,Ready to Move,Godrej,2026-05-03,https://example.com/L0009
+L0010,Mumbai,Worli,4,Apartment,2100,95000000,45238,Ready to Move,Lodha,2026-05-05,https://example.com/L0010
+L0011,Bangalore,Whitefield,2,Apartment,1150,11500000,10000,Ready to Move,Prestige,2026-04-10,https://example.com/L0011
+L0012,Bangalore,Whitefield,3,Apartment,1550,16500000,10645,Ready to Move,Brigade,2026-04-14,https://example.com/L0012
+L0013,Bangalore,Indiranagar,2,Apartment,1080,15500000,14352,Ready to Move,Sobha,2026-04-17,https://example.com/L0013
+L0014,Bangalore,Indiranagar,3,Apartment,1620,24000000,14815,Ready to Move,Prestige,2026-04-20,https://example.com/L0014
+L0015,Bangalore,Koramangala,2,Apartment,1120,17000000,15179,Ready to Move,Salarpuria,2026-04-23,https://example.com/L0015
+L0016,Bangalore,Koramangala,3,Apartment,1680,26500000,15774,Ready to Move,Prestige,2026-04-26,https://example.com/L0016
+L0017,Bangalore,HSR Layout,2,Apartment,1090,13500000,12385,Ready to Move,Sobha,2026-04-29,https://example.com/L0017
+L0018,Bangalore,Electronic City,2,Apartment,1010,7800000,7723,Ready to Move,Brigade,2026-05-02,https://example.com/L0018
+L0019,Bangalore,Hebbal,3,Apartment,1480,14500000,9797,Ready to Move,Prestige,2026-05-04,https://example.com/L0019
+L0020,Bangalore,Sarjapur Road,3,Apartment,1520,15800000,10395,Ready to Move,Brigade,2026-05-06,https://example.com/L0020
+L0021,Pune,Hinjewadi,2,Apartment,980,9200000,9388,Ready to Move,Kolte Patil,2026-04-11,https://example.com/L0021
+L0022,Pune,Hinjewadi,3,Apartment,1380,13500000,9783,Ready to Move,Godrej,2026-04-13,https://example.com/L0022
+L0023,Pune,Kharadi,2,Apartment,1020,11000000,10784,Ready to Move,Gera,2026-04-16,https://example.com/L0023
+L0024,Pune,Kharadi,3,Apartment,1450,16500000,11379,Ready to Move,Panchshil,2026-04-19,https://example.com/L0024
+L0025,Pune,Baner,2,Apartment,1080,12500000,11574,Ready to Move,Kolte Patil,2026-04-21,https://example.com/L0025
+L0026,Pune,Baner,3,Apartment,1550,18500000,11935,Ready to Move,Mantra,2026-04-24,https://example.com/L0026
+L0027,Pune,Wakad,2,Apartment,950,8800000,9263,Ready to Move,Pride,2026-04-27,https://example.com/L0027
+L0028,Pune,Viman Nagar,3,Apartment,1480,17500000,11824,Ready to Move,Panchshil,2026-04-30,https://example.com/L0028
+L0029,Pune,Aundh,2,Apartment,1050,13500000,12857,Ready to Move,Kumar,2026-05-02,https://example.com/L0029
+L0030,Pune,Koregaon Park,3,Apartment,1620,28500000,17593,Ready to Move,Panchshil,2026-05-05,https://example.com/L0030
+L0031,Gurgaon,Sector 49,3,Apartment,1680,17500000,10417,Ready to Move,DLF,2026-04-12,https://example.com/L0031
+L0032,Gurgaon,Sector 49,2,Apartment,1180,11500000,9746,Ready to Move,Emaar,2026-04-15,https://example.com/L0032
+L0033,Gurgaon,Golf Course Road,3,Apartment,1850,32000000,17297,Ready to Move,DLF,2026-04-18,https://example.com/L0033
+L0034,Gurgaon,Sohna Road,3,Apartment,1620,15500000,9568,Ready to Move,M3M,2026-04-21,https://example.com/L0034
+L0035,Gurgaon,Dwarka Expressway,3,Apartment,1580,13500000,8544,Ready to Move,Sobha,2026-04-24,https://example.com/L0035
+L0036,Noida,Sector 150,3,Apartment,1750,14500000,8286,Ready to Move,ATS,2026-04-27,https://example.com/L0036
+L0037,Noida,Sector 137,2,Apartment,1180,8500000,7203,Ready to Move,Paras,2026-04-30,https://example.com/L0037
+L0038,Noida,Sector 75,3,Apartment,1480,11500000,7770,Ready to Move,Supertech,2026-05-03,https://example.com/L0038
+L0039,Hyderabad,Gachibowli,3,Apartment,1620,12500000,7716,Ready to Move,My Home,2026-04-11,https://example.com/L0039
+L0040,Hyderabad,Hitech City,2,Apartment,1180,9200000,7797,Ready to Move,Aparna,2026-04-14,https://example.com/L0040
+L0041,Hyderabad,Kondapur,3,Apartment,1550,11200000,7226,Ready to Move,Ramky,2026-04-17,https://example.com/L0041
+L0042,Hyderabad,Madhapur,2,Apartment,1080,9800000,9074,Ready to Move,My Home,2026-04-20,https://example.com/L0042
+L0043,Hyderabad,Banjara Hills,4,Apartment,2400,32000000,13333,Ready to Move,Aparna,2026-04-23,https://example.com/L0043
+L0044,Chennai,Velachery,2,Apartment,1080,8500000,7870,Ready to Move,Casagrand,2026-04-12,https://example.com/L0044
+L0045,Chennai,OMR,3,Apartment,1480,9800000,6622,Ready to Move,Akshaya,2026-04-15,https://example.com/L0045
+L0046,Chennai,Adyar,2,Apartment,1150,15500000,13478,Ready to Move,Casagrand,2026-04-18,https://example.com/L0046
+L0047,Chennai,Anna Nagar,3,Apartment,1620,21000000,12963,Ready to Move,Appaswamy,2026-04-21,https://example.com/L0047
+L0048,Chennai,Porur,2,Apartment,1050,7800000,7429,Ready to Move,Akshaya,2026-04-24,https://example.com/L0048
+L0049,Kolkata,New Town,3,Apartment,1480,8500000,5743,Ready to Move,Siddha,2026-04-27,https://example.com/L0049
+L0050,Kolkata,Salt Lake,2,Apartment,1050,7500000,7143,Ready to Move,PS Group,2026-04-30,https://example.com/L0050
+L0051,Bangalore,Whitefield,4,Villa,3200,55000000,17188,Ready to Move,Prestige,2026-04-15,https://example.com/L0051
+L0052,Bangalore,Sarjapur Road,4,Villa,3000,42000000,14000,Ready to Move,Sobha,2026-04-20,https://example.com/L0052
+L0053,Bangalore,Devanahalli,4,Villa,3500,38000000,10857,Ready to Move,Brigade,2026-04-25,https://example.com/L0053
+L0054,Mumbai,Thane West,4,Villa,3400,72000000,21176,Ready to Move,Lodha,2026-04-18,https://example.com/L0054
+L0055,Pune,Baner,4,Villa,2800,45000000,16071,Ready to Move,Kolte Patil,2026-04-22,https://example.com/L0055
+L0056,Pune,Wagholi,4,Villa,3100,32000000,10323,Ready to Move,Gera,2026-04-28,https://example.com/L0056
+L0057,Gurgaon,Sector 49,4,Villa,3600,68000000,18889,Ready to Move,DLF,2026-04-12,https://example.com/L0057
+L0058,Hyderabad,Kondapur,4,Villa,3200,28000000,8750,Ready to Move,My Home,2026-04-19,https://example.com/L0058
+L0059,Chennai,OMR,3,Villa,2400,18000000,7500,Ready to Move,Casagrand,2026-04-23,https://example.com/L0059
+L0060,Bangalore,Sarjapur Road,3,House,1800,15500000,8611,Ready to Move,Independent,2026-04-10,https://example.com/L0060
+L0061,Bangalore,Hebbal,4,House,2200,21000000,9545,Ready to Move,Independent,2026-04-14,https://example.com/L0061
+L0062,Pune,Wakad,3,House,1700,11500000,6765,Ready to Move,Independent,2026-04-16,https://example.com/L0062
+L0063,Pune,Hadapsar,4,House,2100,14500000,6905,Ready to Move,Independent,2026-04-21,https://example.com/L0063
+L0064,Mumbai,Mulund West,3,House,1600,22500000,14063,Ready to Move,Independent,2026-04-26,https://example.com/L0064
+L0065,Hyderabad,Madhapur,3,House,1900,15500000,8158,Ready to Move,Independent,2026-04-29,https://example.com/L0065
+L0066,Chennai,Anna Nagar,3,House,1800,19500000,10833,Ready to Move,Independent,2026-05-01,https://example.com/L0066
+L0067,Gurgaon,Sohna Road,3,House,1750,17000000,9714,Ready to Move,Independent,2026-05-04,https://example.com/L0067
+L0068,Bangalore,Devanahalli,0,Plot,2400,8400000,3500,Ready to Move,BDA Approved,2026-04-11,https://example.com/L0068
+L0069,Pune,Hinjewadi,0,Plot,1800,5400000,3000,Ready to Move,Private,2026-04-17,https://example.com/L0069
+L0070,Gurgaon,Sohna Road,0,Plot,2700,9500000,3519,Ready to Move,Private,2026-04-24,https://example.com/L0070
+L0071,Hyderabad,Shamshabad,0,Plot,3000,5400000,1800,Ready to Move,HMDA Approved,2026-04-30,https://example.com/L0071
+L0072,Chennai,OMR,0,Plot,2400,7200000,3000,Ready to Move,DTCP Approved,2026-05-03,https://example.com/L0072
